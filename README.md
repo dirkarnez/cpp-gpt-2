@@ -1,5 +1,5 @@
-whisper.cpp-playground
-======================
+cpp-gpt-2
+=========
 ### TODOs
 - [ ] SDL
   - [ ] https://github.com/ggerganov/whisper.cpp/blob/master/examples/common-sdl.h
