@@ -5,8 +5,7 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "${workspaceFolder}/ggml-helper/**",
-                "${env:USERPROFILE}\\Downloads\\whisper.cpp\\cmake-build\\cmakeInstallationPath\\include\\**",
-                "${env:USERPROFILE}\\Downloads\\SDL\\cmake-build\\cmakeInstallationPath\\include\\**"
+                "${env:USERPROFILE}\\Downloads\\ggml-cbb8d8cff851b2de6fde4904be492d39458837e1a-winlibs-x86_64-posix-seh-gcc-11.2.0-mingw-w64-9.0.0-r1\\**"
             ],
             "defines": [
                 "_DEBUG",

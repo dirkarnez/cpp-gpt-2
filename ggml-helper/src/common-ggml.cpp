@@ -71,7 +71,7 @@ bool ggml_common_quantize_0(
         case GGML_FTYPE_MOSTLY_IQ4_NL:
         case GGML_FTYPE_MOSTLY_IQ4_XS:
         case GGML_FTYPE_MOSTLY_IQ1_M:
-        case GGML_FTYPE_MOSTLY_BF16:
+        // case GGML_FTYPE_MOSTLY_BF16:
         // case GGML_FTYPE_MOSTLY_Q4_0_4_4:
         // case GGML_FTYPE_MOSTLY_Q4_0_4_8:
         // case GGML_FTYPE_MOSTLY_Q4_0_8_8:
@@ -211,7 +211,7 @@ bool ggml_common_quantize_0(
                 case GGML_TYPE_IQ4_NL:
                 case GGML_TYPE_IQ4_XS:
                 case GGML_TYPE_IQ1_M:
-                case GGML_TYPE_BF16:
+                // case GGML_TYPE_BF16:
                 // case GGML_TYPE_Q4_0_4_4:
                 // case GGML_TYPE_Q4_0_4_8:
                 // case GGML_TYPE_Q4_0_8_8:

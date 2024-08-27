@@ -1,4 +1,4 @@
-#include "ggml.h"
+#include "ggml/ggml.h"
 #include "common-ggml.h"
 
 #include "gpt-2.h"
