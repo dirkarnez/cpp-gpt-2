@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/ggml-helper/**",
+                "${env:USERPROFILE}\\Downloads\\whisper.cpp\\cmake-build\\cmakeInstallationPath\\include\\**",
+                "${env:USERPROFILE}\\Downloads\\SDL\\cmake-build\\cmakeInstallationPath\\include\\**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:\\Softwares\\winlibs-x86_64-posix-seh-gcc-11.2.0-mingw-w64-9.0.0-r1\\mingw64\\bin\\gcc.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
