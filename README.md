@@ -1,12 +1,10 @@
 cpp-gpt-2-playground
 ====================
+From https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk
+
 ### TODOs
-- [ ] SDL
-  - [ ] https://github.com/ggerganov/whisper.cpp/blob/master/examples/common-sdl.h
-- [ ] Raspberry 4 baremetal
-- [ ] Build variant
-- [ ] Cantonese models
+- [ ] baremetal
 
 ### Using
-- [dirkarnez/whisper.cpp-prebuilt](https://github.com/dirkarnez/whisper.cpp-prebuilt)
+- [dirkarnez/ggml-prebuilt](https://github.com/dirkarnez/ggml-prebuilt)
 
